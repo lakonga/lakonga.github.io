@@ -1,0 +1,11 @@
+
+ body {
+    background-color: rgb(40, 185, 190);
+}
+
+ section {
+    width: 1300px;
+    border: 10px solid green;
+    padding: 1px;
+    margin: 1px;
+}
